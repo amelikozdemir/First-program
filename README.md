@@ -1,2 +1,2 @@
 # First-program
-FIRST PROJET
+FIRST PROJE
